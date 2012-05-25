@@ -1,10 +1,6 @@
 % Canny Edge Detector
 % Author: Rohit Ainapure
-% UBIT Name : rohitain
-% UBIT Person Number : 50026926
 
-%x = imread('C:\Users\rohit\Desktop\label2rgb_grayscale.gif');
-%x = imread('C:\Users\rohit\Desktop\Boats.gif');
 x1 = imread('/home/csgrad/rohitain/Desktop/Lena.jpg');
 x2 = imread('/home/csgrad/rohitain/Desktop/House.jpg');
 
